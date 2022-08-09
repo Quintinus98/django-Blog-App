@@ -1,4 +1,4 @@
-# news-app
+# Django-Blog-App
 This app allows a registered user to create news articles.
 
 The user can also edit and delete his article only.
